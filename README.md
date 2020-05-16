@@ -35,9 +35,9 @@
 
 <img src="images/3.png"/>
 
-* When Breadth First Search algorithm achieved to Kevin Bacon starting from given actor, connections between vertex nodes:
+* When Breadth First Search algorithm achieved to Kevin Bacon starting from given actor for this example, connections between vertex nodes be like this:
 
-<img src="images/4.png"/>
+<img src="images/4.png" width = "600" />
 
 <img src="images/5.png" width = "720" />
 
