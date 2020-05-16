@@ -5,14 +5,14 @@
 ### What is Small World Phenomenon
 * The small-world experiment comprised several experiments conducted by Stanley Milgram and other researchers examining the average path length for social networks of people in the United States. The research was groundbreaking in that it suggested that human society is a small-world-type network characterized by short path-lengths. The experiments are often associated with the phrase "six degrees of separation", although Milgram did not use this term himself. In brief, this phenomenon suggests that every two person in the world, related to each other via people they know.
 
-![](https://i.imgur.com/cNB8dB5.png)
+<img src="images/1.png" width="500"/>
 
 
 ### What is Kevin Bacon Number
 * The Bacon number of an actor or actress is the number of degrees of separation (see Six degrees of separation) they have from actor Kevin Bacon, as defined by the game known as Six Degrees of Kevin Bacon.
 * For example, Kevin Bacon's Bacon number is 0. If an actor works in a movie with Kevin Bacon, the actor's Bacon number is 1. If an actor works with an actor who worked with Kevin Bacon in a movie, the first actor's Bacon number is 2, and so forth.
 
-![](https://i.imgur.com/baOiiFD.png)
+<img src="images/2.png" width="500"/>
 
 
 ### What Does Program Do
@@ -33,25 +33,24 @@
   * movieNo represents the index of movie which this two actors both worked in.
   * vertex nodes also has a parent member but all nodes has parent with value NULL, so ignored for this representation.
 
-![](https://i.imgur.com/Ujymza5.png)
+<img src="images/3.png"/>
 
 * When Breadth First Search algorithm achieved to Kevin Bacon starting from given actor, connections between vertex nodes:
 
-![](https://i.imgur.com/cNDEPDO.png)
+<img src="images/4.png"/>
 
-![](https://i.imgur.com/2jIarvz.png)
-
+<img src="images/5.png" width = "720" />
 
 ### Screenshots
 
-![](https://i.imgur.com/gLbAUp9.png)
+<img src="images/6.png" width = "500" />
 
-![](https://i.imgur.com/Qy6Jez2.png)
+<img src="images/7.png" width = "500" />
 
-![](https://i.imgur.com/FYGTUq1.png)
+<img src="images/8.png" width = "500" />
 
-![](https://i.imgur.com/fEqA790.png)
+<img src="images/9.png" width = "500" />
 
-![](https://i.imgur.com/XwAH5uq.png)
+<img src="images/10.png" width = "500" />
 
-![](https://i.imgur.com/ipyqAiq.png)
+<img src="images/11.png" width = "500" />
