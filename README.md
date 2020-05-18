@@ -1,5 +1,5 @@
 # Small World Phenomenon
-* The program which finds the nearest relation between actors and Kevin Bacon (Kevin Bacon number of an actor) by a file via Breadth First Search algorithm. It creates a graph which represents relations between actors. Two actor played in same movie means they are related to each other by the movie. Then, program finds every single actor's Kevin Bacon number by using Breadth First Search algorithm over the graph. 
+* The program which finds the nearest relation between actors and Kevin Bacon (Kevin Bacon number of an actor) by a file via Breadth First Search algorithm over a graph. It creates a graph which represents relations between actors. Two actor played in same movie means they are related to each other by the movie. Then, program finds every single actor's Kevin Bacon number by using Breadth First Search algorithm over the graph. 
 
 
 ### What is Small World Phenomenon
@@ -40,6 +40,8 @@
 <img src="images/4.png" width = "600" />
 
 <img src="images/5.png" width = "720" />
+
+(Information from wikipedia)
 
 ### Screenshots
 
